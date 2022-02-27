@@ -1,0 +1,24 @@
+h1,h2{
+   font-family: "Georgia", "Arial", "Helvetica", sans-serif;
+}
+
+p{
+   font-family: "Georgia", "Arial", "Helvetica", sans-serif;
+}
+
+a{
+   color:#5588aa; 
+}
+a:hover { color:#cc6600; text-decoration: none;}
+
+li,td,body {
+   font-size: 11pt;
+   font-family: "Georgia", "Arial", "Helvetica", sans-serif;
+   background: #FFFFFF;
+   color: #333333;
+}
+
+.exam {
+   background-color: green;
+   color: yellow;
+}
